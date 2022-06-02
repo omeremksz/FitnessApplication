@@ -1,1 +1,1 @@
-# Fitness-Application
+# FitnessApplication
