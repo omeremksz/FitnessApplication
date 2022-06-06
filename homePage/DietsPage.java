@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 
 public class DietsPage implements ActionListener {
 	
-	JFrame dietsFrame = new JFrame("Calorie Calculator");
+	JFrame dietsFrame = new JFrame("Diet Programs");
 	
 	int answer1 = 1;
 	
